@@ -1,0 +1,1 @@
+Copia la carpeta "img" en la carpeta Home de tu usuario. Luego ejecuta la aplicación.
